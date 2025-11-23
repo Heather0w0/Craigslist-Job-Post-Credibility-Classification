@@ -1,1 +1,1 @@
-# Acadamic-Project
+# Craigslist Job Post Credibility Classification
